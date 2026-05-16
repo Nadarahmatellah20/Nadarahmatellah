@@ -59,7 +59,29 @@
 
 ---
 
+#### 🍽️ Restaurant App — React + Vite
+> A modern restaurant web application with admin panel, menu system, and client ordering.
 
+**Features:**
+- 🍔 Browse food menu with categories & filters
+- 🛒 Order system with cart & checkout simulation
+- 🔐 Authentication (Admin & Client)
+- 📊 Admin dashboard to manage foods, orders & users
+- 📱 Responsive modern UI
+
+**Pages:**
+- 🏠 Home Page
+- 📂 Categories
+- 🍽️ Menu (Foods)
+- 🛒 Order Page
+- 🔐 Login / Register
+- 📊 Client Dashboard
+- ⚙️ Admin Panel
+- 📞 Contact Page
+
+**Built with:** `React 18` · `TypeScript` · `Vite` · `Tailwind CSS` · `Wouter` · `localStorage`
+
+---
 
 ### 📫 Connect with Me
 
