@@ -1,79 +1,113 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+I'm+Nada+👋;Full-Stack+Developer;React+%7C+Laravel+%7C+MySQL;Building+Beautiful+Web+Apps+🚀" />
+<!-- ✨ Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+I'm+Nada+👋;Full-Stack+Developer;React+%7C+Laravel+%7C+MySQL;I+build+modern+web+apps+🚀" />
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<!-- GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👩‍💻 About Me
 
-```yaml
-name: Nada
-role: Full-Stack Developer
-status: Final Year Computer Science Student (PFE 2026)
-location: Morocco 🇲🇦
-passion: Building modern web applications
-stack: React, Laravel, MySQL
-⚡ Tech Stack
+- 🎓 Final year Computer Science student (PFE 2026)
+- 💻 Full-Stack Developer passionate about web apps
+- 🌱 Working with **React, Laravel, MySQL**
+- 🇲🇦 Based in Morocco
+- 🚀 I love building clean & modern UI/UX
 
+---
 
+## 🛠️ Tech Stack
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
+## 🚀 Featured Projects
 
+### 🍽️ Restaurant App (React + Vite)
+Modern restaurant system with admin & client panel.
 
+- 🍔 Food menu with filters
+- 🛒 Order system
+- 🔐 Authentication (Admin / Client)
+- 📊 Admin dashboard
+- 📱 Responsive UI
 
+**Tech:** React · TypeScript · Tailwind · Vite
 
+---
 
+### ✈️ Safar GO
+Travel booking platform with modern UI.
 
+- 🗺️ Booking system
+- 🔍 Search & filter destinations
+- 👤 User authentication
 
+**Tech:** React · Laravel · MySQL
 
+---
 
-🚀 Featured Projects
-🍽️ Restaurant App
+### 🖥️ UTECH System
+IT services management platform.
 
-Modern restaurant web app with admin & client system.
+- 📦 Orders tracking
+- 🧾 Invoice system
+- 🎫 Support tickets
+- 📊 Admin dashboard
 
-🍔 Menu with filters
-🛒 Order system
-🔐 Authentication
-📊 Admin dashboard
-📱 Responsive design
+**Tech:** Laravel · PHP · MySQL
 
-Tech: React · TypeScript · Tailwind · Vite
+---
 
-✈️ Safar GO
+## 📊 GitHub Stats
 
-Travel booking platform.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-🗺️ Booking system
-🔍 Search & filter
-👤 User authentication
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-Tech: React · Laravel · MySQL
+---
 
-🖥️ UTECH System
+## 🐍 Contribution Snake
 
-IT service management system.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
-📦 Orders tracking
-🧾 Invoice system
-🎫 Ticket system
-📊 Admin dashboard
+---
 
-Tech: Laravel · PHP · MySQL
+## 📫 Connect With Me
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" /> </p>
-🐍 Contribution Graph
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/rahmat-ellah-nada-68b491385"> <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:nadarahmatellah5@gmail.com"> <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahmat-ellah-nada-68b491385">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nadarahmatellah5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <div align="center">
-💡 “Turning ideas into real digital experiences”
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </div> ```
+
+### ⭐ “Code is creativity turned into reality”
+
+</div>
